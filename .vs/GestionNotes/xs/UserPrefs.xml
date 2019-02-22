@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8299ADFF-B6A8-4D34-B359-26F13B3EDA08}|Default">
+  <MonoDevelop.Ide.ItemProperties.GestionNotes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestionNotes/Mysql.cs">
+    <Files>
+      <File FileName="GestionNotes/DAO.cs" Line="99" Column="10" />
+      <File FileName="GestionNotes/Program.cs" Line="34" Column="1" />
+      <File FileName="GestionNotes/Mysql.cs" Line="134" Column="28" />
+      <File FileName="GestionNotes/RequestCondition.cs" Line="68" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

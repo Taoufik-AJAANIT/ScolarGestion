@@ -1,0 +1,11 @@
+/home/taoufik/Projects/GestionNotes/GestionNotes/bin/Debug/GestionNotes.exe
+/home/taoufik/Projects/GestionNotes/GestionNotes/bin/Debug/GestionNotes.pdb
+/home/taoufik/Projects/GestionNotes/GestionNotes/bin/Debug/Google.Protobuf.dll
+/home/taoufik/Projects/GestionNotes/GestionNotes/bin/Debug/MySql.Data.dll
+/home/taoufik/Projects/GestionNotes/GestionNotes/bin/Debug/Google.Protobuf.xml
+/home/taoufik/Projects/GestionNotes/GestionNotes/bin/Debug/MySql.Data.xml
+/home/taoufik/Projects/GestionNotes/GestionNotes/obj/x86/Debug/GestionNotes.csprojAssemblyReference.cache
+/home/taoufik/Projects/GestionNotes/GestionNotes/obj/x86/Debug/GestionNotes.csproj.CoreCompileInputs.cache
+/home/taoufik/Projects/GestionNotes/GestionNotes/obj/x86/Debug/GestionNotes.csproj.CopyComplete
+/home/taoufik/Projects/GestionNotes/GestionNotes/obj/x86/Debug/GestionNotes.exe
+/home/taoufik/Projects/GestionNotes/GestionNotes/obj/x86/Debug/GestionNotes.pdb
